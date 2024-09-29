@@ -1,5 +1,0 @@
-https://pseudo-lab.github.io/pytorch-guide/docs/index.html#
-pytorch 가이드
-
-https://inhovation97.tistory.com/
-인공지능 관련 가이드(논문, CNN 등)
